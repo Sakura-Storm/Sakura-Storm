@@ -24,7 +24,7 @@
 - Python (in progress)
 
 ## Language Fluency
-![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=StormStarbrickYT&hide_border=true&layout=compact&theme=tokyonight)
+![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakura-Storm&hide_border=true&layout=compact&theme=tokyonight)
 
 <!-- Licensing -->
 <p align="center">
