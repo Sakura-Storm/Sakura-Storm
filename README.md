@@ -1,7 +1,7 @@
-<h1 align="center">StormStarbrickYT</h1>
+<h1 align="center">Sakura</h1>
 
 <div align="center">
-  <a href="https://www.twitch.tv/STORMSTARBRICK"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://www.twitch.tv/sakura_storm_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript"></a>
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
@@ -11,7 +11,7 @@
 <html>
   <h4>
 <p align="center">Hello, I am an ameteur developer in the creation of websites and some other projects. I am always looking for new ideas and ways to increase my proficiency. For business inquiries please email 
-<a href="mailto:stormstarbrick@gmail.com">stormstarbrick@gmail.com</a> </p>
+<a href="mailto:sakura.storm1234@gmail.com">sakura.storm1234@gmail.com</a> </p>
 <br>
   </h4>
 </html>
