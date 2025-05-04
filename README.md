@@ -1,4 +1,4 @@
-<h1 align="center">SakuraStorm13</h1>
+<h1 align="center">Katelyn Laurencelle</h1>
 
 <div align="center">
   <a href="https://www.twitch.tv/sakura_storm_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
