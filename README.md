@@ -11,7 +11,7 @@
 <html>
   <h4>
 <p align="center">Hello, I am an ameteur developer in the creation of websites and some other projects. I am always looking for new ideas and ways to increase my proficiency. For business inquiries please email 
-<a href="mailto:sakurastorm13@gmail.com">sakurastorm13@gmail.com</a> </p>
+<a href="mailto:katelynlaurencelle@gmail.com">katelynlaurencelle@gmail.com</a> </p>
 <br>
   </h4>
 </html>
