@@ -1,4 +1,4 @@
-<h1 align="center">Violet "Vi" Laurencelle</h1>
+<h1 align="center">Violet "Vi" Rose Laurencelle</h1>
 
 <div align="center">
   <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript"></a>
