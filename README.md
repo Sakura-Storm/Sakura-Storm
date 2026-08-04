@@ -16,14 +16,6 @@
 </html>
 
 
-## Languages Used
-- HTML
-- CSS
-- JavaScript (barely)
-- Python (in progress)
-
-## Language Fluency
-![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ViTheRoseQueen&hide_border=true&layout=compact&theme=tokyonight)
 
 <!-- Licensing -->
 <p align="center">
