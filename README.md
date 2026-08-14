@@ -9,8 +9,8 @@
 <!-- Descriptor !-->
 <html>
   <h4>
-<p align="center">Hello, I am an ameteur developer in the creation of websites and some other projects. I am always looking for new ideas and ways to increase my proficiency. For business inquiries please email 
-<a href="mailto:katelynlaurencelle@gmail.com">vitherosequeen@gmail.com</a> </p>
+<p align="center">Hello, I am an ameteur developer. I am always looking for new ideas and ways to increase my proficiency. For business inquiries please email 
+<a href="mailto:violetroselaurencelle@gmail.com">violetroselaurencelle@gmail.com</a> </p>
 <br>
   </h4>
 </html>
